@@ -20,6 +20,12 @@ below are common sections that you may like to populate or leave empty to popula
 
 2. Once development is concluded, open a pull request from your branch back to the `dev` branch.
 
+## Branches
+
+- `dev`: where contributions are made
+- `qa`: contains a functional version of code to be tested
+- `prod`: production ready code to be released
+
 ## Development
 
 *add instructions on how to start the dev environment, below is an example*
